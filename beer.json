@@ -1,0 +1,28 @@
+{
+    "beers": [
+      { "name": "512 IPA",
+        "reviews": [
+          { "text": "delicious" }
+        ]
+      },
+      { "name": "Durty Bull Brett",
+        "reviews": [
+          { "text": "why is Brett in the name?" },
+          { "text": "Brett, or brat? Yuck!" },
+          { "text": "Mmmm this is so good." },
+          { "text": "Q Dogs!" },
+          { "text": "^ Megan, is that you!?" }
+        ]
+      },
+      { "name": "Dogfish Head 90 Minute IPA",
+        "reviews": []
+      },
+      { "name": "Chocolate stout",
+        "reviews": [
+          { "text": "too much Chocolate" },
+          { "text": "so yummy" },
+          { "text": "the best!" }
+        ]
+      }
+    ]
+  }
